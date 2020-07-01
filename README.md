@@ -24,3 +24,7 @@ line
 ofcourse
 #Copyright
 giving copyright access
+
+
+##HOW TO /contribute
+please fork this repo and then issue Pull Requests For Review
