@@ -22,3 +22,5 @@ trading
 new
 line
 ofcourse
+#Copyright
+giving copyright access
