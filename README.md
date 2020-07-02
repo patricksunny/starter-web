@@ -24,7 +24,8 @@ new
 line
 ofcourse
 #Copyright
-giving copyright access
+giving copyright access. 
+"All rights RESERVED TO STASH PROCESS"
 
 
 ##HOW TO /contribute
