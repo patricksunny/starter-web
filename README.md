@@ -4,7 +4,9 @@ This repository is for showing how Git and GitHub work
 Adding a line for rebasing example, 
 then more changes from myfeature branch too.
 Adding a line for rebasing /Example
-more changes for my feature branch too
+more changes for my feature branch too.
+Updating for emergency fix after Stashing.
+
 ## Purpose
 
 Sample website with plenty of files for demos
